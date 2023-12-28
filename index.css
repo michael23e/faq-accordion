@@ -104,4 +104,7 @@ text-decoration: underline;
     button p{
         font-size: 12px;
     }
+.accordion-content{
+    font-size: 14px;
+}
 }
