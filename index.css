@@ -47,7 +47,7 @@ button{
     outline: none;
     padding: 15px 0;
     color: var(--Dark-purple);
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 600;
     cursor: pointer;
     display: flex;
@@ -90,6 +90,7 @@ hr{
 a{
 text-decoration: none;
 color: var(--Dark-purple);
+text-decoration: underline;
 }
 
 
